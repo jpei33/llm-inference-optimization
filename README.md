@@ -1,2 +1,3 @@
 # llm-inference-optimization
-LLM 
+Tinker Project on LLM inference optimization using speculative decoding and KV caching
+
